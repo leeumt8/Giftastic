@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+.container {
+    width: 85%;
+}
+.singularGifs {
+    float: left;
+}
+#rating {
+    color: white;
+}
